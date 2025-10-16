@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      <url>
+          <loc>https://#</loc>
+
+            <xhtml:link rel="alternate" hreflang="x-default" href="https://#" />
+            <xhtml:link rel="alternate" hreflang="en-FR" href="https://#" />
+
+
+        <lastmod>2025-10-16T17:35:19.865Z</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+      </url>
+</urlset>
