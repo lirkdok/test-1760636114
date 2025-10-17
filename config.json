@@ -169,6 +169,14 @@
                 {
                     "title": "FAQ Question 2",
                     "answer": "FAQ Answer 2"
+                },
+                {
+                    "title": "FAQ Question 3",
+                    "answer": "FAQ Answer 3"
+                },
+                {
+                    "title": "FAQ Question 4",
+                    "answer": "FAQ Answer 4"
                 }
             ]
         },
